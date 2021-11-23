@@ -1,16 +1,14 @@
 # papayo
 
 ## System reqs
-```
-Node v16.13.0
-```
 
+- Node v16.13.0
 
 ## fend
 
 Ember js
 
-```
+``` sh
 ember serve
 ```
 
@@ -18,9 +16,8 @@ ember serve
 
 Loopback
 
-```
+``` sh
 npm start
 ```
 
 ## app
-
